@@ -5,6 +5,7 @@ http://rosettacode.org, along with instructions and supplemental tools to help
 get them running on your local machine.
 
 ## Goals
+Guy says: I'm forkng this to have easy access and in case I need to mod anything
 
 The primary goal of this project is to get the code samples into the most
 easily usable format, so that more programmers are exposed to them and actually
